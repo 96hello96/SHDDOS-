@@ -2,7 +2,7 @@
 🚀 SHDDOS v2
 
 🔍 Overview
-SHDDOS is a customizable tool for stress-testing websites through Distributed Denial-of-Service (DDoS) simulations. It allows you to simulate traffic load and test the resilience of web applications.
+SHDDOS is a customizable tool for stress-testing websites through Distributed Denial-of-Service (DDoS) simulations. It allows you to simulate traffic load and test the resilience of web applications. It is completly safe, you may have to turn off your virus protection though.
 
 🛠️ Features
 User-Friendly Interface – Easily configurable, with guided input prompts.
